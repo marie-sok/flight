@@ -1,7 +1,4 @@
-package org.skypro.service;
-
-import org.skypro.filter.FlightFilter;
-import org.skypro.flight.Flight;
+package com.gridnine.testing;
 
 import java.util.List;
 import java.util.stream.Collectors;

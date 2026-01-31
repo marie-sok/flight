@@ -1,6 +1,4 @@
-package org.skypro.filter;
-
-import org.skypro.flight.Flight;
+package com.gridnine.testing;
 
 public interface FlightFilter {
     boolean test(Flight flight);

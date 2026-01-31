@@ -1,10 +1,9 @@
-package org.skypro.flight;
+package com.gridnine.testing;
 
 import java.util.List;
 
 public class Flight {
-    public static void main(String[] args) {
-    }
+
     private final List<Segment> segments;
 
     public Flight(List<Segment> segments) {

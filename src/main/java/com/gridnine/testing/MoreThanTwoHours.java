@@ -1,8 +1,4 @@
-package org.skypro.flights;
-
-import org.skypro.filter.FlightFilter;
-import org.skypro.flight.Flight;
-import org.skypro.flight.Segment;
+package com.gridnine.testing;
 
 import java.time.Duration;
 import java.util.List;

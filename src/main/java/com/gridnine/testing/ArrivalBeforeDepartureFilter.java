@@ -1,7 +1,4 @@
-package org.skypro.flights;
-
-import org.skypro.filter.FlightFilter;
-import org.skypro.flight.Flight;
+package com.gridnine.testing;
 
 public class ArrivalBeforeDepartureFilter implements FlightFilter {
 

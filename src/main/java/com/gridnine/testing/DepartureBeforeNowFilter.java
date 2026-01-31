@@ -1,7 +1,5 @@
-package org.skypro.flights;
+package com.gridnine.testing;
 
-import org.skypro.filter.FlightFilter;
-import org.skypro.flight.Flight;
 import java.time.LocalDateTime;
 
 public class DepartureBeforeNowFilter implements FlightFilter {
